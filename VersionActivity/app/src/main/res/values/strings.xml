@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VersionActivity</string>
+
+    <string name="invitation_deep_link">https://play.google.com/store/apps/details?id=jogilsang.com.naver.blog.hateshy&amp;hl=ko</string>
+
+    <string name="txt_device_version">Installation version : </string>
+    <string name="txt_current_version">Newest version : </string>
+    <string name="txt_versionupdate">Update your version</string>
+
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryText">#0288D1</color>
+    <color name="celadon_green">#2F847C</color>
+    <color name="deep_aquamarine">#40826D</color>
+
+
+</resources>
